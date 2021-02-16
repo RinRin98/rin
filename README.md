@@ -1,0 +1,2 @@
+# rin
+My personal repository
